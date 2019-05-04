@@ -1,0 +1,30 @@
+{
+	"themeName": "Solarized",
+	"default": {
+		"fgColor": "839496",
+		"bgColor": "002B36",
+		"extraHighlight": false,
+		"transparentBg": false
+	},
+	"header": {
+		"fgColor": "CB4B16"
+	},
+	"emphasis": {
+		"fgColor": "93A1A1"
+	},
+	"orderedList": {
+		"fgColor": "2AA198"
+	},
+	"unorderedList": {
+		"fgColor": "2AA198"
+	},
+	"code": {
+		"fgColor": "719E07"
+	},
+	"link": {
+		"fgColor": "268BD2"
+	},
+	"comment": {
+		"fgColor": "586E75"
+	}
+}
